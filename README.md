@@ -61,15 +61,13 @@ FEX 学院
 
 - [ ] [Angular](http://angularjs.org/)
 - [ ] [React](http://facebook.github.io/react/)
+- [ ] [vue](https://vuejs.org/) 轻量mvvm框架
 
 ## CSS 及 UI
 - [ ] [Less](http://lesscss.org/) 轻量
 - [ ] [Sass](http://sass-lang.com/) 墙内安装就是坑
 - [ ] [Compass](http://compass-style.org/) 同上
-- [ ] [Bourbon](http://bourbon.io/)
-- [ ] [Bootswatch](http://bootswatch.com/)
-- [ ] [Semantic UI](http://semantic-ui.com/)
-- [ ] [Chocolatechip UI](http://chocolatechip-ui.com/)
+- [ ] [bootstrap](http://getbootstrap.com/) 相对合理的dom结构，标准的jquery插件写法
 
 ## Web Components
 
