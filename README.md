@@ -20,8 +20,9 @@ FEX 学院
 
 ## 前端工具
 
-- [ ] [FIS](http://fis.baidu.com/)
-
+- [ ] [FIS](http://fis.baidu.com/) 整体解决方案，fis写法比较难懂
+- [ ] [gulp](http://gulpjs.com) 流程控制，入门简单，性能不错，插件很多。
+- [ ] [webpack](https://webpack.github.io/) 分析依赖，模块打包，入门比较难，功能强大。
 ## 网络相关
 
 协议
@@ -38,6 +39,7 @@ FEX 学院
 网络工具
 
 - [ ] [Wireshark](http://www.wireshark.org/)，强大的网络分析工具，可以查看 TCP 请求的细节
+- [ ] [charles](https://www.charlesproxy.com/)
 
 推荐书籍
 
@@ -61,9 +63,9 @@ FEX 学院
 - [ ] [React](http://facebook.github.io/react/)
 
 ## CSS 及 UI
-
-- [ ] [Sass](http://sass-lang.com/)
-- [ ] [Compass](http://compass-style.org/)
+- [ ] [Less](http://lesscss.org/) 轻量
+- [ ] [Sass](http://sass-lang.com/) 墙内安装就是坑
+- [ ] [Compass](http://compass-style.org/) 同上
 - [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
 - [ ] [Semantic UI](http://semantic-ui.com/)
@@ -75,8 +77,7 @@ FEX 学院
 - [ ] [X-Tag](http://x-tags.org/)
 
 ## 前端模板
-
-- [ ] [BaiduTemplate](https://github.com/BaiduFE/BaiduTemplate)
+- [ ] [artTemplate](https://github.com/aui/artTemplate)
 - [ ] [EJS](https://github.com/visionmedia/ejs)
 
 ## JavaScript/DOM
